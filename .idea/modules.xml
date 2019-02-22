@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Homework.iml" filepath="$PROJECT_DIR$/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parsing/Parsing.iml" filepath="$PROJECT_DIR$/Parsing/Parsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring (Annotations)/Spring (Annotations).iml" filepath="$PROJECT_DIR$/Spring (Annotations)/Spring (Annotations).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring (Beginning)/Spring (Beginning).iml" filepath="$PROJECT_DIR$/Spring (Beginning)/Spring (Beginning).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring (Dependencies)/Spring (Dependencies).iml" filepath="$PROJECT_DIR$/Spring (Dependencies)/Spring (Dependencies).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring (XML)/Spring (XML).iml" filepath="$PROJECT_DIR$/Spring (XML)/Spring (XML).iml" />
+      <module fileurl="file://$PROJECT_DIR$/xPath/xPath.iml" filepath="$PROJECT_DIR$/xPath/xPath.iml" />
+    </modules>
+  </component>
+</project>
