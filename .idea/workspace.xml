@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Spring (MVC):war exploded3" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="133a8ab0-d28a-4260-96dd-62a4b4d43dec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Homework_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_web_api_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_18_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parsing/src/root/HtmlParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parsing/src/root/HtmlParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Parsing/src/root/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Parsing/src/root/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Annotations)/Spring (Annotations).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring (Annotations)/Spring (Annotations).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Annotations)/src/root/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Annotations)/src/root/ConvertManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Annotations)/src/root/Convertable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Annotations)/src/root/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/Spring (Beginning).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework#1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-aop-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-aspects-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-beans-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-context-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-context-support-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-core-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-expression-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-instrument-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-jdbc-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-jms-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-messaging-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-orm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-oxm-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-test-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/lib/spring-tx-4.3.18.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Beginning)/src/root/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/Spring (Dependencies).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring (Dependencies)/Spring (Dependencies).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/src/root/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/src/root/ConvertManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/src/root/Convertable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/src/root/CourseManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (Dependencies)/src/root/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (XML)/Spring (XML).iml" beforeDir="false" afterPath="$PROJECT_DIR$/Spring (XML)/Spring (XML).iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (XML)/src/root/ConvertManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (XML)/src/root/Convertable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (XML)/src/root/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spring (XML)/src/spring-config.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Spring (MVC)/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Homework" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Parsing/src/root/HtmlParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parsing/src/root/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Parsing/src/root/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
+              <folding>
+                <element signature="e#331#332#0" expanded="true" />
+                <element signature="e#359#360#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#410#411#0" expanded="true" />
+                <element signature="e#441#442#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Jsp File" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>StringBuilder</find>
+      <find>/div[@class='product-item__content']</find>
+      <find>String</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>String</replace>
+      <replace>StringBuilder</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Parsing/src/root/Product.java" />
+        <option value="$PROJECT_DIR$/Spring (Beginning)/src/root/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (Beginning)/src/spring-config.xml" />
+        <option value="$PROJECT_DIR$/Spring (Annotations)/src/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (WebMVC)/web/index.jsp" />
+        <option value="$PROJECT_DIR$/Spring (WebMVC)/src/controllers/CalculateController.java" />
+        <option value="$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/controllers/CalculateController.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/jsp/result.jsp" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/jsp/index.jsp" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/initializer/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/Spring (XML)/src/root/Convertable.java" />
+        <option value="$PROJECT_DIR$/Spring (XML)/src/root/ConvertManager.java" />
+        <option value="$PROJECT_DIR$/Spring (Annotations)/src/root/Convertable.java" />
+        <option value="$PROJECT_DIR$/Spring (XML)/src/spring-config.xml" />
+        <option value="$PROJECT_DIR$/Spring (Annotations)/src/root/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (XML)/src/root/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/root/CourseManager.java" />
+        <option value="$PROJECT_DIR$/Spring (Annotations)/src/root/ConvertManager.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/root/AppConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/root/ConvertManager.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/root/Convertable.java" />
+        <option value="$PROJECT_DIR$/Spring (Dependencies)/src/root/Main.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/META-INF/context.xml" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/config/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/config/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (Annotations)/src/root/AppConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/pages/result.jsp" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controllers/CalculateController.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controllers/DefaultController.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/dispatcher-servlet.xml" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/root/config/Config.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/root/config/Initializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/root/config/WebInitializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/root/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/root/controllers/CalculateController.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebAppConfig.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/Initializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/index.jsp" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/pages/index.jsp" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebAppInitializer.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/Spring (MVC)/pom.xml" />
+        <option value="$PROJECT_DIR$/Parsing/src/root/HtmlParser.java" />
+        <option value="$PROJECT_DIR$/Parsing/src/root/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="PackagesPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Homework#1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Parsing" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Homework#1" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Parsing" type="616d4139:PackageViewModuleNode" />
+              <item name="root" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Homework#10" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33410943" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (MVC)\src\main\java\root" />
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (Dependencies)\src" />
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (Annotations)\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="controllers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (MVC)\web\WEB-INF\pages" />
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (MVC)\web\WEB-INF\jsp" />
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (WebMVC)\web\WEB-INF\jsp" />
+      <recent name="C:\Users\Sunny\Documents\IntelliJ IDEA Projects\Homework\Spring (WebMVC)\web\view" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.xPath">
+    <configuration name="Parsing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="Parsing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring (Annotations)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="Spring (Annotations)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring (Dependencies)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="Spring (Dependencies)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring (XML)" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="Spring (XML)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xPath" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="xPath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classes.root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xPath" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="root.Main" />
+      <module name="xPath" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="root.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.xPath" />
+      <item itemvalue="Application.Parsing" />
+      <item itemvalue="Application.Spring (XML)" />
+      <item itemvalue="Application.Spring (Dependencies)" />
+      <item itemvalue="Application.Spring (Annotations)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.xPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="133a8ab0-d28a-4260-96dd-62a4b4d43dec" name="Default Changelist" comment="" />
+      <created>1549989506080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549989506080</updated>
+      <workItem from="1549989509372" duration="100000" />
+      <workItem from="1549989893472" duration="15301000" />
+      <workItem from="1550057162967" duration="3400000" />
+      <workItem from="1550063887754" duration="1566000" />
+      <workItem from="1550765244212" duration="27555000" />
+      <workItem from="1550837919436" duration="671000" />
+      <workItem from="1550838600753" duration="19615000" />
+      <workItem from="1551168739645" duration="1561000" />
+      <workItem from="1551196605760" duration="988000" />
+      <workItem from="1551207956209" duration="5718000" />
+      <workItem from="1551266786100" duration="9655000" />
+      <workItem from="1551379304917" duration="11031000" />
+      <workItem from="1551393803542" duration="1563000" />
+      <workItem from="1551395575796" duration="2497000" />
+      <workItem from="1551398373455" duration="926000" />
+      <workItem from="1551399307707" duration="324000" />
+      <workItem from="1551399683891" duration="1576000" />
+      <workItem from="1551401317640" duration="287000" />
+      <workItem from="1551425014340" duration="4702000" />
+      <workItem from="1551814609739" duration="4403000" />
+      <workItem from="1551824465978" duration="5090000" />
+      <workItem from="1552485168617" duration="445000" />
+      <workItem from="1552575419711" duration="31000" />
+      <workItem from="1553083740171" duration="2769000" />
+      <workItem from="1554153385681" duration="1447000" />
+      <workItem from="1554292309447" duration="250000" />
+      <workItem from="1554408824873" duration="28000" />
+      <workItem from="1554408890354" duration="435000" />
+      <workItem from="1559581696406" duration="671000" />
+      <workItem from="1560115657907" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124656000" />
+  </component>
+  <component name="TodoView" selected-index="3">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47352025" visible="true" weight="0.23933902" />
+      <window_info id="Structure" order="1" sideWeight="0.5264797" side_tool="true" weight="0.23134328" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.501548" side_tool="true" weight="0.1988273" />
+      <window_info id="Web" order="5" sideWeight="0.501548" side_tool="true" weight="0.1988273" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32917964" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32917964" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32917964" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="JSF" order="7" />
+      <window_info anchor="right" id="CDI" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47352025" visible="true" weight="0.23134328" />
+      <window_info id="Structure" order="1" sideWeight="0.5264797" side_tool="true" visible="true" weight="0.23134328" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.501548" side_tool="true" weight="0.1988273" />
+      <window_info id="Web" order="5" sideWeight="0.501548" side_tool="true" weight="0.1988273" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32917964" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32917964" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32917964" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3997923" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32917964" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32917964" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32917964" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32917964" />
+      <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32917964" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="JSF" order="7" />
+      <window_info anchor="right" id="CDI" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../../Jars and Libs/HtmlCleaner/htmlcleaner-2.22.jar!/org/htmlcleaner/TagNode.class" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/org/w3c/dom/NodeList.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xPath/src/graphics/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xPath/src/appearance/Theme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xPath/src/root/xPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="652">
+          <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/Spring (Beginning)/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/annotation/ComponentScan.class" />
+    <entry file="file://$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/dispatcher-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (WebMVC)/src/controllers/CalculateController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (WebMVC)/web/WEB-INF/jsp/index.jsp" />
+    <entry file="jar://$PROJECT_DIR$/Spring (Beginning)/lib/spring-context-4.3.18.RELEASE.jar!/org/springframework/context/config/spring-context-4.3.xsd" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/META-INF/context.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/config/WebInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/controllers/CalculateController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/config/WebAppConfig.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (Beginning)/src/root/Main.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (Beginning)/src/spring-config.xml" />
+    <entry file="file://$PROJECT_DIR$/xPath/src/root/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/pages/result.jsp" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controllers/DefaultController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controllers/CalculateController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (XML)/src/root/Convertable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/dispatcher-servlet.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/applicationContext.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/root/config/WebInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/root/config/WebConfig.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/root/controllers/CalculateController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/web/WEB-INF/pages/index.jsp" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebAppInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/config/WebAppConfig.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (MVC)/src/main/java/root/controller/HelloController.java" />
+    <entry file="file://$PROJECT_DIR$/Spring (Annotations)/src/root/Convertable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Dependencies)/src/root/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Dependencies)/src/root/Convertable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Dependencies)/src/root/ConvertManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Dependencies)/src/root/CourseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Annotations)/src/root/AppConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Annotations)/src/root/ConvertManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Annotations)/src/root/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" column="30" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (XML)/src/spring-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (Dependencies)/src/root/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (XML)/src/root/ConvertManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring (XML)/src/root/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/src/root/HtmlParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/src/root/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Parsing/src/root/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Homework:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Spring-4.3.18.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Homework#1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.33410943" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

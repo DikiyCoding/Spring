@@ -1,7 +1,5 @@
 package root;
 
-import org.htmlcleaner.XPatherException;
-
 import java.io.IOException;
 
 public class Main {

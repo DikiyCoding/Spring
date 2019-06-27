@@ -1,5 +1,5 @@
 package root;
 
 public interface Convertable {
-    void convert();
+    void convert(double value);
 }

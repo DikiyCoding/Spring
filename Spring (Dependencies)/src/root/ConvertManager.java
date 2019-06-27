@@ -6,20 +6,17 @@ import org.springframework.stereotype.Component;
 @Component
 public class ConvertManager implements Convertable {
 
-    private Main main;
-    private CourseManager course;
-    private String from;
-
     @Autowired
-    ConvertManager(Main main, CourseManager course, String from) {
-        this.main = main;
-        this.course = course;
-        this.from = from;
+    private CourseManager course;
+    private String codeISOfrom;
+
+    public ConvertManager() {
+        codeISOfrom = "RUB";
     }
 
     @Override
-    public void convert() {
-        System.out.println("Текущий курс " + main.getCourse() + " относительно " + from + ": " + course);
-        System.out.println(main.getValue() + " " + from + " = " + main.getValue() / course.getCourse() + " " + main.getCourse());
+    public void convert(double value, String codeISOto) {
+        System.out.println("Текущий курс " + codeISOto + " относительно " + codeISOfrom + ": " + course.getCourse(codeISOto));
+        System.out.println(value + " " + codeISOfrom + " = " + value / course.getCourse(codeISOto) + " " + codeISOto);
     }
 }
